@@ -56,7 +56,7 @@ into a unified research workspace.
 ## 📄 Multi-Format Document Processing
 
 <p align="center">
-  <img src="assets/Multi-Format Document Processing.png" width="100%"
+  <img src="assets/Multi-Format Document Processing.png" width="900%"
 </p>
 
 Process multiple document formats through a unified document ingestion pipeline.
