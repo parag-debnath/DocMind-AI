@@ -120,7 +120,7 @@ The LLM model and Ollama endpoint can be configured through environment variable
 ## 🔐 Authentication & Security
 
 <p align="center">
-  <img src="assets/auth.png" width="100%">
+  <img src="assets/auth.png"width="100%">
 </p>
 
 
